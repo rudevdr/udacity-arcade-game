@@ -1,20 +1,19 @@
-# Classic Arcade Game Clone Project
+# Udacity-Arcade-Game
 
-## Table of Contents
+This game was inspired from a Udacity project for frontend track.
 
-- [Instructions](#instructions)
-- [Contributing](#contributing)
+# How to Play
 
-## Instructions
+If you want to see the code or play the game offline, download the repo and open the `index.html` file in your browser to see the website in action or 
 
-Use this [rubric](https://review.udacity.com/#!/rubrics/2013/view) for self-checking your submission.
+***You can see the [LIVE DEMO](https://rudevdr.github.io/frontend-nanodegree-arcade-game/index.html).*** 
 
-Make sure the functions you write are **object-oriented** - either class functions (like `Player` and `Enemy`) or class prototype functions such as `Enemy.prototype.checkCollisions`. Also make sure that the keyword `this` is used appropriately within your class and class prototype functions to refer to the object the function is called upon.
+# Tools used to create this website
 
-Your **README.md** file should be updated with instructions on both how to 1. Run and 2. Play your arcade game.
+* HTML/CSS
+* JavaScript
+* [underscore.js](http://underscorejs.org/) 
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+# License
 
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+See the License file for licensing info.
