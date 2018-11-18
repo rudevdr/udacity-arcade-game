@@ -8,6 +8,8 @@ If you want to see the code or play the game offline, download the repo and open
 
 ***You can see the [LIVE DEMO](https://rudevdr.github.io/frontend-nanodegree-arcade-game).*** 
 
+Press arrow keys to move the player. You win the game once you reach to the water. You loose the game if you collide with an enemy. When you win or loose the game, the game is reset. 
+
 # Tools used to create this website
 
 * HTML/CSS
